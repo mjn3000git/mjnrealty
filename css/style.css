@@ -74,7 +74,8 @@ h1,h2,h3,.brand-name{font-family:Inter,system-ui,sans-serif;letter-spacing:-.02e
 @media (max-width:900px){.prop-grid{grid-template-columns:1fr}.prop:first-child{grid-row:auto}.prop:first-child .prop-img img{min-height:0;aspect-ratio:4/3}.area-list{grid-template-columns:1fr 1fr}}
 @media (max-width:760px){.site-nav{background:#111}.svc{grid-template-columns:1fr;gap:6px}.about-grid{gap:32px}.area{border-right:0;border-bottom:1px solid var(--line)}.hero{height:88vh}}
 
-.brand img.brand-logo{width:auto;height:84px}\n.site-header .brand img.brand-logo{filter:drop-shadow(0 1px 6px rgba(0,0,0,.45))}
+.brand img.brand-logo{width:auto;height:84px}
+.site-header .brand img.brand-logo{filter:drop-shadow(0 1px 6px rgba(0,0,0,.45))}
 .site-footer .brand img.brand-logo{height:80px}
 @media (max-width:760px){.brand img.brand-logo{height:60px}}
 /* Single featured property */
