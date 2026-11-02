@@ -1,4 +1,4 @@
-/* MJN Realty site script. */
+/* mjnrealty.com site script. */
 // Formspree free plan form ID (the part after formspree.io/f/). Empty = form stays hidden and disabled.
 var FORMSPREE_ID = "xqppplep";
 document.addEventListener("DOMContentLoaded", function () {
